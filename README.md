@@ -1,10 +1,11 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href=https://www.linkedin.com/in/henrique-jos%C3%A9-61381b244><i>Henrique Barros</i></a> 😁</h1>
+  <h1 align="center">Oi Tudo bem? Eu sou  <a href=https://www.linkedin.com/in/henrique-jos%C3%A9-61381b244><i>Henrique Barros</i></a> 😁</h1>
   <p align="center">Estudo Desenvolvimento Web! </P>
+  <p align="center">Também estou cursando engenharia da computação 💻</p>
   <!--<a align="rigth"  href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
     <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />-->
   </a><br>
-  <p align="center"> vem codar comigo, tua contribuição será muito bem vinda, tmj 😉️</h2>
+  <p align="center"> vamos codar e qualquer coisa, entra em contato! tmj! 😉️</h2>
 </div>
 
 
